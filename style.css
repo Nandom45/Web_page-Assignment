@@ -1,0 +1,82 @@
+/* HND/CSS/2024/0358 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f6f2;
+  color: #333333;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #5d4037;
+  color: #ffffff;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.header .tagline {
+  margin: 5px 0 0;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.section {
+  padding: 30px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.section h2 {
+  font-size: 28px;
+  color: #8d6e63;
+  margin-bottom: 20px;
+}
+
+.services-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.service-card {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  width: 23%;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.service-card h3 {
+  margin-top: 0;
+  color: #5d4037;
+}
+
+.contact-info {
+  margin-top: 20px;
+  background-color: #efebe9;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.contact-info p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+/* HND/CSS/2024/0358 */
